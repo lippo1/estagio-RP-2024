@@ -93,26 +93,3 @@ is_in_fibo(7) #FALSE
 
 #OBS: Usei como exemplo somente o quarto 1, pois combinar todos os quartos deixaria a explicação repetitiva.
 # Não considerei o tipo de interruptor (switch, toggle, touchscreen,button, etc), já que a questão não menciona esse detalhe.
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
